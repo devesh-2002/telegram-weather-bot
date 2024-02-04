@@ -2,6 +2,8 @@
 This is a weather bot, specifically in Telegram, where user can subscribe for weather updates of their city and get weather updates every 24 hours. 
 There is an Admin Panel as well, which can control the bot : block, unblock and delete the user, change the API Keys. 
 
+### Telegram Bot ID : @weather_Myupdater_bot
+
 ### Tech Stack
 1. Nest.js
 2. React.js
@@ -33,9 +35,7 @@ cd frontend
 ```
 yarn dev
 ```
-8. Visit @WeatherNestBot on Telegram.
-
-### Telegram Bot ID : @WeatherNestBot
+8. Visit @weather_Myupdater_bot on Telegram.
 
 #### Commands with Telegram bot :
 1. /weather <city-name> : Get the current weather of the city
